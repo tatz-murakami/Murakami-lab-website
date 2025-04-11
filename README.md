@@ -5,6 +5,6 @@
 
   # tatz-murakami's Website
 
-  Visit **[tatz-murakami.github.io/Murakami-lab-website](https://tatz-murakami.github.io/Murakami-lab-website)** 🚀
+  Visit **[tatz-murakami.github.io/murakami-lab.github.io](https://tatz-murakami.github.io/murakami-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
