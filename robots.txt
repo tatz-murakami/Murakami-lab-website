@@ -1,1 +1,1 @@
-Sitemap: https://tatz-murakami.github.io/Murakami-lab-website/sitemap.xml
+Sitemap: https://tatz-murakami.github.io/murakami-lab.github.io/sitemap.xml
