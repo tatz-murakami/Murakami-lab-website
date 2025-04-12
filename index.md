@@ -1,9 +1,9 @@
 ---
 ---
 
-# tatz-murakami's Website
+# Systems Neuroanatomy
 
-An engaging 1-3 sentence description of your lab.
+The Murakami research group focuses on developing a suite of research tools to standardize the cellular neuroanatomy of the human brain. Our goal is to understand the cellular pathogenic mechanisms underlying neurodevelopmental disorders. We integrate 3D single-cell-resolution imaging with deep learning to quantitatively evaluate how the brain is affected by developmental disorders at the cellular level.
 
 {% include section.html %}
 
