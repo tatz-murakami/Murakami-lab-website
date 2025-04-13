@@ -3,7 +3,8 @@
 
 # Systems Neuroanatomy
 
-The Murakami research group focuses on developing a suite of research tools to standardize the cellular neuroanatomy of the human brain. Our goal is to understand the cellular pathogenic mechanisms underlying neurodevelopmental disorders. We integrate 3D single-cell-resolution imaging with deep learning to quantitatively evaluate how the brain is affected by developmental disorders at the cellular level.
+My research aims to understand the pathogenic mechanisms underlying neurological disorders. We integrate 3D single-cell-resolution imaging with deep learning, focusing on developing a suite of tools to standardize the human brain anatomy at the cellular level. 
+
 
 {% include section.html %}
 
@@ -11,7 +12,7 @@ The Murakami research group focuses on developing a suite of research tools to s
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Powered by tissue clearing and whole-mount staining techniques, we untangle the molecular complexity of the brain at single-cell resolution.
 
 {%
   include button.html
@@ -28,13 +29,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="3D Imaging"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop state-of-the-art deep learning models to analyze our terabyte-scale volumetric data.
 
 {%
   include button.html
@@ -51,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Image Analysis"
   flip=true
   style="bare"
   text=text

@@ -1,14 +1,13 @@
 # site properties and page defaults
 title: Tatsuya Murakami
 subtitle:
-description: The Murakami research group focuses on developing a suite of research tools to standardize the cellular neuroanatomy of the human brain. Our goal is to understand the cellular pathogenic mechanisms underlying neurodevelopmental disorders. We integrate 3D single-cell-resolution imaging with deep learning to quantitatively evaluate how the brain is affected by developmental disorders at the cellular level. 
+description: My research aims to understand the pathogenic mechanisms underlying neurological disorders. We integrate 3D single-cell-resolution imaging with deep learning, focusing on developing a suite of tools to standardize the human brain anatomy at the cellular level. 
 header: images/background_brain.jpg
 footer: images/background_brain.jpg
 proofer: false
 
 # site social media and other links
 links:
-#  email: tmurakami@rockefeller.edu
   orcid: 0000-0002-3734-9359
   google-scholar: dQKJ9ZgAAAAJ
   github: tatz-murakami
