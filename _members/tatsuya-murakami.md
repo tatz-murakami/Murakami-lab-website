@@ -1,7 +1,7 @@
 ---
 name: Tatsuya C. Murakami
 image: images/profiles/tatsuya_murakami.jpg
-role: principal-investigator
+role: investigator
 affiliation: The Rockefeller University
 aliases:
   - Tatz Murakami
