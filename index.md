@@ -17,7 +17,7 @@ Powered by tissue clearing and whole-mount staining techniques, we untangle the 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -39,8 +39,8 @@ We develop state-of-the-art deep learning models to analyze our terabyte-scale v
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Explore more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ We develop state-of-the-art deep learning models to analyze our terabyte-scale v
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="research"
   title="Image Analysis"
   flip=true
   style="bare"
@@ -60,12 +60,12 @@ We develop state-of-the-art deep learning models to analyze our terabyte-scale v
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We aim to upgrade human neuroscience infrastructure to support modern technologies like spatial omics and 3D imaging.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="publications"
+  title="Rebuild neuroscience infrastructure"
   text=text
 %}
