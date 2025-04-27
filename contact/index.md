@@ -23,16 +23,14 @@ nav:
 
 {% include section.html dark=true %}
 
+## Location
+
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Rockefeller Research Building
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+1230 York Ave, New York, NY 10065
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
