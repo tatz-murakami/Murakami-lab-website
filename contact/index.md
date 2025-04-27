@@ -11,8 +11,8 @@ nav:
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="tatsuya.murakami@rockefeller.edu"
+  link="tatsuya.murakami@rockefeller.edu"
 %}
 {%
   include button.html
@@ -24,7 +24,7 @@ nav:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/The+Rockefeller+University/data=!4m2!3m1!1s0x0:0x12248859ac622e4a?sa=X&ved=1t:2428&ictx=111"
 %}
 
 {% include section.html %}
