@@ -21,11 +21,8 @@ nav:
   link="https://www.google.com/maps/place/The+Rockefeller+University/data=!4m2!3m1!1s0x0:0x12248859ac622e4a?sa=X&ved=1t:2428&ictx=111"
 %}
 
-{% include section.html %}
-
 {% include section.html dark=true %}
 
-### Location
 {% capture col1 %}
 Rockefeller Research Building
 {% endcapture %}
