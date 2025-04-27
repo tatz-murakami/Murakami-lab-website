@@ -27,7 +27,7 @@ Powered by tissue clearing and whole-mount staining techniques, we untangle the 
 
 {%
   include feature.html
-  image="images/photo_clearing02.jpg"
+  image="images/photo_mousebrain.jpg"
   link="research"
   title="3D Imaging"
   text=text
@@ -50,7 +50,7 @@ We develop state-of-the-art deep learning models to analyze our terabyte-scale v
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_morphotrack.jpg"
   link="research"
   title="Image Analysis"
   flip=true
@@ -75,8 +75,8 @@ We aim to upgrade human neuroscience infrastructure to support modern technologi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_clearing02.jpg"
   link="publications"
-  title="Rebuild neuroscience infrastructure"
+  title="Rebuilding Brain Research Infrastructure"
   text=text
 %}
