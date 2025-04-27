@@ -16,12 +16,6 @@ nav:
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/place/The+Rockefeller+University/data=!4m2!3m1!1s0x0:0x12248859ac622e4a?sa=X&ved=1t:2428&ictx=111"
