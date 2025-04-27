@@ -27,7 +27,7 @@ Powered by tissue clearing and whole-mount staining techniques, we untangle the 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_clearing02.jpg"
   link="research"
   title="3D Imaging"
   text=text
