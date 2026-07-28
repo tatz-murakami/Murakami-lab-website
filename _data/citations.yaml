@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.21.739857
+  title: Reconstructing the developmental history of the cortex from postmortem tissue
+  authors:
+  - Tatsuya C. Murakami
+  - Nathaniel Heintz
+  publisher: openRxiv
+  date: '2026-07-22'
+  link: https://doi.org/hccw3k
+  orcid: 0000-0002-3734-9359
+  tatsuya-murakami: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1364/optica.586764
   title: Curved axially scanned light-sheet microscopy
   authors:
